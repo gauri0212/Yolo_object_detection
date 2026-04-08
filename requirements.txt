@@ -1,0 +1,11 @@
+ultralytics==8.2.0
+roboflow
+supervision
+matplotlib
+seaborn
+pandas
+numpy
+opencv-python-headless
+Pillow
+PyYAML
+ipython
