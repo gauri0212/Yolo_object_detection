@@ -10,9 +10,9 @@
 
 | # | Member | PRN | GitHub |
 |---|--------|-----|--------|
-| 1 (Leader) | Mohit Patil | 202301070070 | @A7080mohitpatil |
-| 2 | Gauri Narharshettiwar | 202301070050 | gauri0212 |
-| 3 | Amir Furquani | 202301070052 | Isha-Nar |
+| 1 (Leader) | Mohit Patil | 202301070070 | 7080mohitpatil |
+| 2 | Gauri Murathe | 202301070050 | gauri0212 |
+| 3 | Isha Narharshettiwar| 202301070052 | Isha-Nar |
 
 **Faculty:** Dr. Diptee Ghusse (HOD AIML)  
 **Lab Date:** 24/03/2026 | **Submission Date:** 25/03/2026
