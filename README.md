@@ -10,7 +10,7 @@
 
 | # | Member | PRN | GitHub |
 |---|--------|-----|--------|
-| 1 (Leader) | Mohit Patil | 202301070070 | 7080mohitpatil |
+| 1 (Leader) | Mohit Patil | 202301070070 | 7080mohit |
 | 2 | Gauri Murathe | 202301070050 | gauri0212 |
 | 3 | Isha Narharshettiwar| 202301070052 | Isha-Nar |
 
